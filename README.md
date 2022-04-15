@@ -80,6 +80,7 @@
 
     </tfoot>
   </table>
+  <br>
   <hr size="3" noshade>
   <h3>Skills</h3>
   <table cellspacing = "10px">
